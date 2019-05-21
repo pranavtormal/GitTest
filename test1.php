@@ -1,5 +1,6 @@
 
 
 <?php
-echo "test";
+  echo "test";
+  print_r($arr);
 ?>
